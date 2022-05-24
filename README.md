@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @matheusfehh
+- 🥤 A way of life very dependent on Coca-Cola.
+- 🎓 I'm in the first period of Information Systems.
+- 💻 Brazilian developer. 
+- 🎮 Fanatic gamer.
+- 🎧 Music lover.
+- 🌱 I’m currently learning Java, Angular and MySQL.
+- 📫 Send me an email at matheusfehhprohow@gmail.com
