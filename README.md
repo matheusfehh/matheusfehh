@@ -5,4 +5,4 @@
 - 🎮 Fanatic gamer.
 - 🎧 Music lover.
 - 🌱 I’m currently learning Java, Angular and MySQL.
-- 📫 Send me an email at matheusfehhprohow@gmail.com
+- 📫 Send me an email at matheusfehhpronhow@gmail.com
