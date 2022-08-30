@@ -1,4 +1,3 @@
-<img src = "banner.gif" width="250px" align="right">
 
 # 👋 Hi, I’m @matheusfehh
 <div id="badges">
@@ -15,6 +14,8 @@
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
 </div>
+
+<img src = "banner.gif" width="250px" align="right">
 
 - 🥤 A way of life very dependent on Coca-Cola.
 - 🎓 I'm in the first period of Software Engineering.
