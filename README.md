@@ -1,4 +1,4 @@
-<img src = "banner.gif" width="325px" align="right">
+<img src = "banner.gif" width="250px" align="right">
 
 # 👋 Hi, I’m @matheusfehh
 <div id="badges">
@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href = "">
-        <img src="https://dcbadge.vercel.app/api/shield/matheusfehh#1578" alt="Discord Badge"/>
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
 </div>
 
@@ -22,7 +22,6 @@
 - 🎮 Fanatic gamer.
 - 🎧 Music lover.
 - 🌱 I’m currently learning Java, Angular and MySQL.
-- 📫 Send me an email at matheusfehhpronhow@gmail.com
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"    title="Java" alt="Java" width="40" height="40"/>&nbsp;
