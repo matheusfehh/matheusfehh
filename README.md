@@ -1,18 +1,6 @@
-<img src = "banner.gif" width = "325px" align = "right">
 
 # 👋 Hi, I’m @matheusfehh
-<div id="badges">
-    <a href = "https://www.linkedin.com/in/matheus-pronhow-8a66ab1b0/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href = "mailto:matheusfehhpronhow@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href = "https://twitter.com/devmatheusfehh">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-</div>
-<br>
+
 
 - 🥤 A way of life very dependent on Coca-Cola.
 - 🎓 I'm in the first period of Software Engineering.
@@ -29,9 +17,22 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+<br>
+
+<div id="badges">
+    <a href = "https://www.linkedin.com/in/matheus-pronhow-8a66ab1b0/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href = "mailto:matheusfehhpronhow@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href = "https://twitter.com/devmatheusfehh">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+</div>
+
 ---
 
-<div align = "left">
-    <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfehh&show_icons=true&theme=bear&count_private=true"/>
-    <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=matheusfehh&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusfehh&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfehh&layout=compact&theme=vision-friendly-dark)
