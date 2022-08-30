@@ -1,3 +1,4 @@
+<img src = "banner.gif" width = "325px" align = "right">
 
 # 👋 Hi, I’m @matheusfehh
 <div id="badges">
@@ -10,12 +11,8 @@
     <a href = "https://twitter.com/devmatheusfehh">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href = "">
-        <img src="https://img.shields.io/badge/matheusfehh#1578-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-    </a>
 </div>
-
-<img src = "banner.gif" width="250px" align="right">
+<br>
 
 - 🥤 A way of life very dependent on Coca-Cola.
 - 🎓 I'm in the first period of Software Engineering.
