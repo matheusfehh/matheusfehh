@@ -2,7 +2,7 @@
 # 👋 Hi, I’m @matheusfehh
 
 
-- 🥤 A way of life very dependent on Coca-Cola.
+- 🥤 A life form very dependent on coca-cola.
 - 🎓 I'm in the first period of Software Engineering.
 - 💻 Brazilian developer. 
 - 🎮 Fanatic gamer.
