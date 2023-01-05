@@ -35,6 +35,6 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusfehh&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![matheusfehh's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusfehh&hide=contribs&show_icons=true&theme=tokyonight)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfehh&layout=compact&theme=tokyonight)
+[![matheusfehh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfehh&langs_count=8&layout=compact)](https://github.com/matheusfehh/github-readme-stats)
